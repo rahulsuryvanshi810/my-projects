@@ -53,3 +53,9 @@ Full-stack store rating platform: React (Vite) + Express + PostgreSQL, role-base
 ## How to add a new project
 1. Add a row to the table at the top (keep newest first, renumber).
 2. Add a section under **Project details** with: one line, data/stack, what you built, results, a resume bullet.
+3. Save it to GitHub, from the `C:\Users\Rahul\projects\my-projects` folder:
+   ```
+   git add README.md
+   git commit -m "Add <project name>"
+   git push
+   ```
