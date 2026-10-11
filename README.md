@@ -1,7 +1,9 @@
 # My Projects
 
 One place to track every project I have built. Newest first.
+
 Finished work and progress log: [PROJECT_DONE.md](PROJECT_DONE.md)
+
 GitHub profile: https://github.com/rahulsuryvanshi810
 
 | # | Project | Domain | Tech | Started | GitHub | Local folder |
