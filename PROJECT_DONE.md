@@ -7,21 +7,23 @@ Last updated: 2026-10-11
 
 | # | Project | Type | Status | GitHub | On my PC |
 |---|---------|------|--------|--------|----------|
-| 1 | music-store-sql-analysis | Data Analysis / SQL | ✅ Done, public, tests passing | https://github.com/rahulsuryvanshi810/music-store-sql-analysis | `C:\Users\Rahul\projects\music-store-sql-analysis` |
-| 2 | uplift-targeting | Data Science / Causal ML | ✅ Done, public, tests passing | https://github.com/rahulsuryvanshi810/uplift-targeting | `C:\Users\Rahul\projects\uplift-targeting` |
-| 3 | codesync | Full-stack / Real-time | ✅ Done, public | https://github.com/rahulsuryvanshi810/codesync | `C:\Users\Rahul\projects\codesync` |
-| 4 | sentinel-gateway | Backend / Distributed systems | ✅ Done, public | https://github.com/rahulsuryvanshi810/sentinel-gateway | `C:\Users\Rahul\projects\sentinel-gateway` |
-| 5 | llm-gateway | Backend / AI infrastructure | ✅ Done, public | https://github.com/rahulsuryvanshi810/llm-gateway | GitHub only |
-| 6 | llm-redteam | AI safety / Evaluation | ✅ Done, public | https://github.com/rahulsuryvanshi810/llm-redteam | GitHub only |
-| 7 | store-rating-platform | Full-stack web | ✅ Done, public | https://github.com/rahulsuryvanshi810/store-rating-platform | GitHub only |
-| 8 | my-projects (this tracker) | Project list | ✅ Done, public | https://github.com/rahulsuryvanshi810/my-projects | `C:\Users\Rahul\projects\my-projects` |
-| 9 | Profile README | GitHub profile | ✅ Done, public | https://github.com/rahulsuryvanshi810 | `C:\Users\Rahul\projects\rahulsuryvanshi810` |
+| 1 | customer-churn-prediction | Machine Learning / Classification | ✅ Done, public, tests passing | https://github.com/rahulsuryvanshi810/customer-churn-prediction | `C:\Users\Rahul\projects\customer-churn-prediction` |
+| 2 | music-store-sql-analysis | Data Analysis / SQL | ✅ Done, public, tests passing | https://github.com/rahulsuryvanshi810/music-store-sql-analysis | `C:\Users\Rahul\projects\music-store-sql-analysis` |
+| 3 | uplift-targeting | Data Science / Causal ML | ✅ Done, public, tests passing | https://github.com/rahulsuryvanshi810/uplift-targeting | `C:\Users\Rahul\projects\uplift-targeting` |
+| 4 | codesync | Full-stack / Real-time | ✅ Done, public | https://github.com/rahulsuryvanshi810/codesync | `C:\Users\Rahul\projects\codesync` |
+| 5 | sentinel-gateway | Backend / Distributed systems | ✅ Done, public | https://github.com/rahulsuryvanshi810/sentinel-gateway | `C:\Users\Rahul\projects\sentinel-gateway` |
+| 6 | llm-gateway | Backend / AI infrastructure | ✅ Done, public | https://github.com/rahulsuryvanshi810/llm-gateway | GitHub only |
+| 7 | llm-redteam | AI safety / Evaluation | ✅ Done, public | https://github.com/rahulsuryvanshi810/llm-redteam | GitHub only |
+| 8 | store-rating-platform | Full-stack web | ✅ Done, public | https://github.com/rahulsuryvanshi810/store-rating-platform | GitHub only |
+| 9 | my-projects (this tracker) | Project list | ✅ Done, public | https://github.com/rahulsuryvanshi810/my-projects | `C:\Users\Rahul\projects\my-projects` |
+| 10 | Profile README | GitHub profile | ✅ Done, public | https://github.com/rahulsuryvanshi810 | `C:\Users\Rahul\projects\rahulsuryvanshi810` |
 
 Not uploaded (coursework, local only): `assignment6`, `assign6wad` in `C:\Users\Rahul\projects`.
 
 ## Work log
 
 ### 2026-10-19
+- [x] Built **customer-churn-prediction**: IBM Telco data, 3 models with CV, ROC-AUC 0.85, top-30% risk reaches 65% of churners, CSV risk scores, 5 tests. Replaced SafeCity AI on resume.
 - [x] Built **music-store-sql-analysis**: 12 SQL business questions on the Chinook database (joins, CTEs, window functions), CSV exports for Power BI, charts, 6 reconciliation tests. Added to resume (replaced Sentinel) and GitHub profile.
 
 ### 2026-10-11
