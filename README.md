@@ -8,20 +8,29 @@ GitHub profile: https://github.com/rahulsuryvanshi810
 
 | # | Project | Domain | Tech | Started | GitHub | Local folder |
 |---|---------|--------|------|---------|--------|--------------|
-| 1 | **uplift-targeting** | Data Science / Causal ML | Python, scikit-learn, pandas, matplotlib | 2026-10-11 | [link](https://github.com/rahulsuryvanshi810/uplift-targeting) | `projects/uplift-targeting` |
-| 2 | **codesync** | Full-stack / Real-time systems | JavaScript, Yjs (CRDT), WebSockets | 2026-10-10 | [link](https://github.com/rahulsuryvanshi810/codesync) | `projects/codesync` |
-| 3 | **sentinel-gateway** | Backend / Distributed systems | JavaScript, Redis (Lua), Prometheus | 2026-10-10 | [link](https://github.com/rahulsuryvanshi810/sentinel-gateway) | `projects/sentinel-gateway` |
-| 4 | **llm-gateway** | Backend / AI infrastructure | TypeScript, Fastify, Redis, Prisma, Postgres | 2026-09-29 | [link](https://github.com/rahulsuryvanshi810/llm-gateway) | - |
-| 5 | **llm-redteam** | AI safety / Evaluation | Python | 2026-09-29 | [link](https://github.com/rahulsuryvanshi810/llm-redteam) | - |
-| 6 | **store-rating-platform** | Full-stack web | React (Vite), Express, PostgreSQL | 2026-09-29 | [link](https://github.com/rahulsuryvanshi810/store-rating-platform) | - |
-| 7 | assignment6 | Coursework (web) | Node.js | - | not uploaded | `projects/assignment6` |
-| 8 | assign6wad | Coursework (SPA) | - | - | not uploaded | `projects/assign6wad` |
+| 1 | **music-store-sql-analysis** | Data Analysis / SQL | SQL (SQLite), Python, pandas, matplotlib | 2026-10-19 | [link](https://github.com/rahulsuryvanshi810/music-store-sql-analysis) | `projects/music-store-sql-analysis` |
+| 2 | **uplift-targeting** | Data Science / Causal ML | Python, scikit-learn, pandas, matplotlib | 2026-10-11 | [link](https://github.com/rahulsuryvanshi810/uplift-targeting) | `projects/uplift-targeting` |
+| 3 | **codesync** | Full-stack / Real-time systems | JavaScript, Yjs (CRDT), WebSockets | 2026-10-10 | [link](https://github.com/rahulsuryvanshi810/codesync) | `projects/codesync` |
+| 4 | **sentinel-gateway** | Backend / Distributed systems | JavaScript, Redis (Lua), Prometheus | 2026-10-10 | [link](https://github.com/rahulsuryvanshi810/sentinel-gateway) | `projects/sentinel-gateway` |
+| 5 | **llm-gateway** | Backend / AI infrastructure | TypeScript, Fastify, Redis, Prisma, Postgres | 2026-09-29 | [link](https://github.com/rahulsuryvanshi810/llm-gateway) | - |
+| 6 | **llm-redteam** | AI safety / Evaluation | Python | 2026-09-29 | [link](https://github.com/rahulsuryvanshi810/llm-redteam) | - |
+| 7 | **store-rating-platform** | Full-stack web | React (Vite), Express, PostgreSQL | 2026-09-29 | [link](https://github.com/rahulsuryvanshi810/store-rating-platform) | - |
+| 8 | assignment6 | Coursework (web) | Node.js | - | not uploaded | `projects/assignment6` |
+| 9 | assign6wad | Coursework (SPA) | - | - | not uploaded | `projects/assign6wad` |
 
 ---
 
 ## Project details
 
-### 1. uplift-targeting (Data Science)
+### 1. music-store-sql-analysis (Data Analysis / SQL)
+**One line:** Answers 12 business questions about a digital music store's sales with SQL.
+
+- **Data:** Chinook sample database (public teaching dataset): 412 invoices, 59 customers, 3,503 tracks, 2021-2025.
+- **What I built:** 12 SQL queries (joins, CTEs, subqueries, RANK/NTILE/LAG window functions, running totals); Python runner exporting CSVs for Power BI and charts; 6 reconciliation tests.
+- **Headline results:** top 5 countries = 59% of revenue; Rock = 35.5% of sales; 43.4% of tracks never sold; 235-day average gap between a customer's orders.
+- **Resume bullet:** *Answered 12 business questions on 412 invoices with SQL joins, CTEs and window functions; found the top 5 countries drive 59% of revenue and 43% of the catalogue never sold.*
+
+### 2. uplift-targeting (Data Science)
 **One line:** Predicts which customers buy *because of* a marketing e-mail, not just who buys, then decides who should be e-mailed.
 
 - **Data:** Hillstrom randomized e-mail experiment, 64,000 real customers in 3 random groups.
@@ -36,19 +45,19 @@ GitHub profile: https://github.com/rahulsuryvanshi810
   - Why I recommended *not* deploying a model for the Men's e-mail.
 - **Resume bullet:** *Built a causal uplift-modeling pipeline on a 64k-customer randomized experiment (S/T/X-learners, Qini AUC with bootstrap CIs, IPW policy evaluation); identified a targeting policy capturing 75% of campaign lift with 50% of the e-mail volume.*
 
-### 2. codesync
+### 3. codesync
 Real-time collaborative code editor: CRDT (Yjs) sync over a custom WebSocket server, live cursors, offline editing and sandboxed code execution.
 
-### 3. sentinel-gateway
+### 4. sentinel-gateway
 API gateway with a distributed rate limiter (token bucket, sliding window) on Redis Lua scripts, load balancing, circuit breaking and Prometheus metrics.
 
-### 4. llm-gateway
+### 5. llm-gateway
 LLM API gateway in TypeScript: Fastify, Redis caching and rate limiting, Prisma/Postgres API keys, input/output guardrails.
 
-### 5. llm-redteam
+### 6. llm-redteam
 Red-teaming harness for LLMs: prompt-injection attack suites, canary-based judging, bootstrap confidence intervals, defense comparison.
 
-### 6. store-rating-platform
+### 7. store-rating-platform
 Full-stack store rating platform: React (Vite) + Express + PostgreSQL, role-based auth for admins, store owners and users.
 
 ---
