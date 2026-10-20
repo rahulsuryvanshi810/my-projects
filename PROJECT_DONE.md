@@ -7,19 +7,21 @@ Last updated: 2026-10-20
 
 | # | Project | Type | Status | GitHub | On my PC |
 |---|---------|------|--------|--------|----------|
-| 1 | darkstore-pulse-bi | BI / Power BI + Tableau | ✅ Done, public, tests passing, live dashboard (.pbix/.twbx to add) | https://github.com/rahulsuryvanshi810/darkstore-pulse-bi | `C:\Users\Rahul\projects\darkstore-pulse-bi` |
-| 2 | customer-churn-prediction | Machine Learning / Classification | ✅ Done, public, tests passing | https://github.com/rahulsuryvanshi810/customer-churn-prediction | `C:\Users\Rahul\projects\customer-churn-prediction` |
-| 3 | music-store-sql-analysis | Data Analysis / SQL | ✅ Done, public, tests passing | https://github.com/rahulsuryvanshi810/music-store-sql-analysis | `C:\Users\Rahul\projects\music-store-sql-analysis` |
-| 4 | uplift-targeting | Data Science / Causal ML | ✅ Done, public, tests passing | https://github.com/rahulsuryvanshi810/uplift-targeting | `C:\Users\Rahul\projects\uplift-targeting` |
-| 5 | codesync | Full-stack / Real-time | ✅ Done, public | https://github.com/rahulsuryvanshi810/codesync | `C:\Users\Rahul\projects\codesync` |
-| 6 | sentinel-gateway | Backend / Distributed systems | ✅ Done, public | https://github.com/rahulsuryvanshi810/sentinel-gateway | `C:\Users\Rahul\projects\sentinel-gateway` |
-| 7 | llm-gateway | Backend / AI infrastructure | ✅ Done, public | https://github.com/rahulsuryvanshi810/llm-gateway | GitHub only |
-| 8 | llm-redteam | AI safety / Evaluation | ✅ Done, public | https://github.com/rahulsuryvanshi810/llm-redteam | GitHub only |
-| 9 | store-rating-platform | Full-stack web | ✅ Done, public | https://github.com/rahulsuryvanshi810/store-rating-platform | GitHub only |
-| 10 | my-projects (this tracker) | Project list | ✅ Done, public | https://github.com/rahulsuryvanshi810/my-projects | `C:\Users\Rahul\projects\my-projects` |
-| 11 | Profile README | GitHub profile | ✅ Done, public | https://github.com/rahulsuryvanshi810 | `C:\Users\Rahul\projects\rahulsuryvanshi810` |
+| 1 | darkstore-pulse-bi | BI / Power BI + Tableau | ✅ Done, public, tests passing, live dashboard (.pbix/.twbx to add) | https://github.com/rahulsuryvanshi810/darkstore-pulse-bi | `C:\Users\Rahul\projects\GitHub-Projects\darkstore-pulse-bi` |
+| 2 | customer-churn-prediction | Machine Learning / Classification | ✅ Done, public, tests passing | https://github.com/rahulsuryvanshi810/customer-churn-prediction | `C:\Users\Rahul\projects\GitHub-Projects\customer-churn-prediction` |
+| 3 | music-store-sql-analysis | Data Analysis / SQL | ✅ Done, public, tests passing | https://github.com/rahulsuryvanshi810/music-store-sql-analysis | `C:\Users\Rahul\projects\GitHub-Projects\music-store-sql-analysis` |
+| 4 | uplift-targeting | Data Science / Causal ML | ✅ Done, public, tests passing | https://github.com/rahulsuryvanshi810/uplift-targeting | `C:\Users\Rahul\projects\GitHub-Projects\uplift-targeting` |
+| 5 | codesync | Full-stack / Real-time | ✅ Done, public | https://github.com/rahulsuryvanshi810/codesync | `C:\Users\Rahul\projects\GitHub-Projects\codesync` |
+| 6 | sentinel-gateway | Backend / Distributed systems | ✅ Done, public | https://github.com/rahulsuryvanshi810/sentinel-gateway | `C:\Users\Rahul\projects\GitHub-Projects\sentinel-gateway` |
+| 7 | llm-gateway | Backend / AI infrastructure | ✅ Done, public | https://github.com/rahulsuryvanshi810/llm-gateway | `C:\Users\Rahul\projects\GitHub-Projects\llm-gateway` |
+| 8 | llm-redteam | AI safety / Evaluation | ✅ Done, public | https://github.com/rahulsuryvanshi810/llm-redteam | `C:\Users\Rahul\projects\GitHub-Projects\llm-redteam` |
+| 9 | store-rating-platform | Full-stack web | ✅ Done, public | https://github.com/rahulsuryvanshi810/store-rating-platform | `C:\Users\Rahul\projects\GitHub-Projects\store-rating-platform` |
+| 10 | my-projects (this tracker) | Project list | ✅ Done, public | https://github.com/rahulsuryvanshi810/my-projects | `C:\Users\Rahul\projects\GitHub-Projects\my-projects` |
+| 11 | Profile README | GitHub profile | ✅ Done, public | https://github.com/rahulsuryvanshi810 | `C:\Users\Rahul\projects\GitHub-Projects\rahulsuryvanshi810` |
 
-Not uploaded (coursework, local only): `assignment6`, `assign6wad` in `C:\Users\Rahul\projects`.
+All GitHub repos are downloaded in `C:\Users\Rahul\projects\GitHub-Projects` (Desktop shortcut: **My Projects**).
+
+Not uploaded (local only): `assignment6`, `assign6wad`, `golu-chiku-1hr`, `neon-galaxy-defender`, `neuro-racer` in `C:\Users\Rahul\projects\Local-Only-Projects`.
 
 ## Work log
 

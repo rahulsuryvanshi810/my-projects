@@ -8,17 +8,17 @@ GitHub profile: https://github.com/rahulsuryvanshi810
 
 | # | Project | Domain | Tech | Started | GitHub | Local folder |
 |---|---------|--------|------|---------|--------|--------------|
-| 1 | **darkstore-pulse-bi** | BI / Data Analysis | Power BI (DAX, Power Query), Tableau (LOD), Python, Chart.js | 2026-10-20 | [link](https://github.com/rahulsuryvanshi810/darkstore-pulse-bi) · [live](https://rahulsuryvanshi810.github.io/darkstore-pulse-bi/) | `projects/darkstore-pulse-bi` |
-| 2 | **customer-churn-prediction** | Machine Learning / Classification | Python, scikit-learn, pandas, matplotlib | 2026-10-19 | [link](https://github.com/rahulsuryvanshi810/customer-churn-prediction) | `projects/customer-churn-prediction` |
-| 3 | **music-store-sql-analysis** | Data Analysis / SQL | SQL (SQLite), Python, pandas, matplotlib | 2026-10-19 | [link](https://github.com/rahulsuryvanshi810/music-store-sql-analysis) | `projects/music-store-sql-analysis` |
-| 4 | **uplift-targeting** | Data Science / Causal ML | Python, scikit-learn, pandas, matplotlib | 2026-10-11 | [link](https://github.com/rahulsuryvanshi810/uplift-targeting) | `projects/uplift-targeting` |
-| 5 | **codesync** | Full-stack / Real-time systems | JavaScript, Yjs (CRDT), WebSockets | 2026-10-10 | [link](https://github.com/rahulsuryvanshi810/codesync) | `projects/codesync` |
-| 6 | **sentinel-gateway** | Backend / Distributed systems | JavaScript, Redis (Lua), Prometheus | 2026-10-10 | [link](https://github.com/rahulsuryvanshi810/sentinel-gateway) | `projects/sentinel-gateway` |
-| 7 | **llm-gateway** | Backend / AI infrastructure | TypeScript, Fastify, Redis, Prisma, Postgres | 2026-09-29 | [link](https://github.com/rahulsuryvanshi810/llm-gateway) | - |
-| 8 | **llm-redteam** | AI safety / Evaluation | Python | 2026-09-29 | [link](https://github.com/rahulsuryvanshi810/llm-redteam) | - |
-| 9 | **store-rating-platform** | Full-stack web | React (Vite), Express, PostgreSQL | 2026-09-29 | [link](https://github.com/rahulsuryvanshi810/store-rating-platform) | - |
-| 10 | assignment6 | Coursework (web) | Node.js | - | not uploaded | `projects/assignment6` |
-| 11 | assign6wad | Coursework (SPA) | - | - | not uploaded | `projects/assign6wad` |
+| 1 | **darkstore-pulse-bi** | BI / Data Analysis | Power BI (DAX, Power Query), Tableau (LOD), Python, Chart.js | 2026-10-20 | [link](https://github.com/rahulsuryvanshi810/darkstore-pulse-bi) · [live](https://rahulsuryvanshi810.github.io/darkstore-pulse-bi/) | `projects/GitHub-Projects/darkstore-pulse-bi` |
+| 2 | **customer-churn-prediction** | Machine Learning / Classification | Python, scikit-learn, pandas, matplotlib | 2026-10-19 | [link](https://github.com/rahulsuryvanshi810/customer-churn-prediction) | `projects/GitHub-Projects/customer-churn-prediction` |
+| 3 | **music-store-sql-analysis** | Data Analysis / SQL | SQL (SQLite), Python, pandas, matplotlib | 2026-10-19 | [link](https://github.com/rahulsuryvanshi810/music-store-sql-analysis) | `projects/GitHub-Projects/music-store-sql-analysis` |
+| 4 | **uplift-targeting** | Data Science / Causal ML | Python, scikit-learn, pandas, matplotlib | 2026-10-11 | [link](https://github.com/rahulsuryvanshi810/uplift-targeting) | `projects/GitHub-Projects/uplift-targeting` |
+| 5 | **codesync** | Full-stack / Real-time systems | JavaScript, Yjs (CRDT), WebSockets | 2026-10-10 | [link](https://github.com/rahulsuryvanshi810/codesync) | `projects/GitHub-Projects/codesync` |
+| 6 | **sentinel-gateway** | Backend / Distributed systems | JavaScript, Redis (Lua), Prometheus | 2026-10-10 | [link](https://github.com/rahulsuryvanshi810/sentinel-gateway) | `projects/GitHub-Projects/sentinel-gateway` |
+| 7 | **llm-gateway** | Backend / AI infrastructure | TypeScript, Fastify, Redis, Prisma, Postgres | 2026-09-29 | [link](https://github.com/rahulsuryvanshi810/llm-gateway) | `projects/GitHub-Projects/llm-gateway` |
+| 8 | **llm-redteam** | AI safety / Evaluation | Python | 2026-09-29 | [link](https://github.com/rahulsuryvanshi810/llm-redteam) | `projects/GitHub-Projects/llm-redteam` |
+| 9 | **store-rating-platform** | Full-stack web | React (Vite), Express, PostgreSQL | 2026-09-29 | [link](https://github.com/rahulsuryvanshi810/store-rating-platform) | `projects/GitHub-Projects/store-rating-platform` |
+| 10 | assignment6 | Coursework (web) | Node.js | - | not uploaded | `projects/Local-Only-Projects/assignment6` |
+| 11 | assign6wad | Coursework (SPA) | - | - | not uploaded | `projects/Local-Only-Projects/assign6wad` |
 
 ---
 
