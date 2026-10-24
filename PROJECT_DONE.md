@@ -1,29 +1,34 @@
 # Projects Done
 
 Every finished project, with where it lives and what was completed.
-Last updated: 2026-10-20
+Last updated: 2026-10-24
 
 ## Completed projects
 
 | # | Project | Type | Status | GitHub | On my PC |
 |---|---------|------|--------|--------|----------|
-| 1 | darkstore-pulse-bi | BI / Power BI + Tableau | ✅ Done, public, tests passing, live dashboard (.pbix/.twbx to add) | https://github.com/rahulsuryvanshi810/darkstore-pulse-bi | `C:\Users\Rahul\projects\GitHub-Projects\darkstore-pulse-bi` |
-| 2 | customer-churn-prediction | Machine Learning / Classification | ✅ Done, public, tests passing | https://github.com/rahulsuryvanshi810/customer-churn-prediction | `C:\Users\Rahul\projects\GitHub-Projects\customer-churn-prediction` |
-| 3 | music-store-sql-analysis | Data Analysis / SQL | ✅ Done, public, tests passing | https://github.com/rahulsuryvanshi810/music-store-sql-analysis | `C:\Users\Rahul\projects\GitHub-Projects\music-store-sql-analysis` |
-| 4 | uplift-targeting | Data Science / Causal ML | ✅ Done, public, tests passing | https://github.com/rahulsuryvanshi810/uplift-targeting | `C:\Users\Rahul\projects\GitHub-Projects\uplift-targeting` |
-| 5 | codesync | Full-stack / Real-time | ✅ Done, public | https://github.com/rahulsuryvanshi810/codesync | `C:\Users\Rahul\projects\GitHub-Projects\codesync` |
-| 6 | sentinel-gateway | Backend / Distributed systems | ✅ Done, public | https://github.com/rahulsuryvanshi810/sentinel-gateway | `C:\Users\Rahul\projects\GitHub-Projects\sentinel-gateway` |
-| 7 | llm-gateway | Backend / AI infrastructure | ✅ Done, public | https://github.com/rahulsuryvanshi810/llm-gateway | `C:\Users\Rahul\projects\GitHub-Projects\llm-gateway` |
-| 8 | llm-redteam | AI safety / Evaluation | ✅ Done, public | https://github.com/rahulsuryvanshi810/llm-redteam | `C:\Users\Rahul\projects\GitHub-Projects\llm-redteam` |
-| 9 | store-rating-platform | Full-stack web | ✅ Done, public | https://github.com/rahulsuryvanshi810/store-rating-platform | `C:\Users\Rahul\projects\GitHub-Projects\store-rating-platform` |
-| 10 | my-projects (this tracker) | Project list | ✅ Done, public | https://github.com/rahulsuryvanshi810/my-projects | `C:\Users\Rahul\projects\GitHub-Projects\my-projects` |
-| 11 | Profile README | GitHub profile | ✅ Done, public | https://github.com/rahulsuryvanshi810 | `C:\Users\Rahul\projects\GitHub-Projects\rahulsuryvanshi810` |
+| 1 | bullscope | BI / Finance analytics | ✅ Done, tests passing, live dashboard (.pbix/.twbx to add) | https://github.com/rahulsuryvanshi810/bullscope | `C:\Users\Rahul\projects\GitHub-Projects\bullscope` |
+| 2 | darkstore-pulse-bi | BI / Power BI + Tableau | ✅ Done, public, tests passing, live dashboard (.pbix/.twbx to add) | https://github.com/rahulsuryvanshi810/darkstore-pulse-bi | `C:\Users\Rahul\projects\GitHub-Projects\darkstore-pulse-bi` |
+| 3 | customer-churn-prediction | Machine Learning / Classification | ✅ Done, public, tests passing | https://github.com/rahulsuryvanshi810/customer-churn-prediction | `C:\Users\Rahul\projects\GitHub-Projects\customer-churn-prediction` |
+| 4 | music-store-sql-analysis | Data Analysis / SQL | ✅ Done, public, tests passing | https://github.com/rahulsuryvanshi810/music-store-sql-analysis | `C:\Users\Rahul\projects\GitHub-Projects\music-store-sql-analysis` |
+| 5 | uplift-targeting | Data Science / Causal ML | ✅ Done, public, tests passing | https://github.com/rahulsuryvanshi810/uplift-targeting | `C:\Users\Rahul\projects\GitHub-Projects\uplift-targeting` |
+| 6 | codesync | Full-stack / Real-time | ✅ Done, public | https://github.com/rahulsuryvanshi810/codesync | `C:\Users\Rahul\projects\GitHub-Projects\codesync` |
+| 7 | sentinel-gateway | Backend / Distributed systems | ✅ Done, public | https://github.com/rahulsuryvanshi810/sentinel-gateway | `C:\Users\Rahul\projects\GitHub-Projects\sentinel-gateway` |
+| 8 | llm-gateway | Backend / AI infrastructure | ✅ Done, public | https://github.com/rahulsuryvanshi810/llm-gateway | `C:\Users\Rahul\projects\GitHub-Projects\llm-gateway` |
+| 9 | llm-redteam | AI safety / Evaluation | ✅ Done, public | https://github.com/rahulsuryvanshi810/llm-redteam | `C:\Users\Rahul\projects\GitHub-Projects\llm-redteam` |
+| 10 | store-rating-platform | Full-stack web | ✅ Done, public | https://github.com/rahulsuryvanshi810/store-rating-platform | `C:\Users\Rahul\projects\GitHub-Projects\store-rating-platform` |
+| 11 | my-projects (this tracker) | Project list | ✅ Done, public | https://github.com/rahulsuryvanshi810/my-projects | `C:\Users\Rahul\projects\GitHub-Projects\my-projects` |
+| 12 | Profile README | GitHub profile | ✅ Done, public | https://github.com/rahulsuryvanshi810 | `C:\Users\Rahul\projects\GitHub-Projects\rahulsuryvanshi810` |
 
 All GitHub repos are downloaded in `C:\Users\Rahul\projects\GitHub-Projects` (Desktop shortcut: **My Projects**).
 
 Not uploaded (local only): `assignment6`, `assign6wad`, `golu-chiku-1hr`, `neon-galaxy-defender`, `neuro-racer` in `C:\Users\Rahul\projects\Local-Only-Projects`.
 
 ## Work log
+
+### 2026-10-24
+- [x] Built **bullscope**: Indian stock market, F&O and mutual fund analytics. Real NSE/BSE prices (51 stocks, 11 indices, since Jan 2023) and 80 fund NAVs plus live search of any AMFI fund; 8-page web dashboard (buy/sell flow, option chain + strategy builder, fund screener, holdings and stakes, advisor); Power BI PBIP with 77 DAX measures; Tableau workbook; 8 tests; daily GitHub Actions refresh.
+- [ ] Open the PBIP in Power BI Desktop, refresh, save `BullScope.pbix` and screenshots; publish the Tableau workbook to Tableau Public.
 
 ### 2026-10-20
 - [x] Built **darkstore-pulse-bi**: quick-commerce operations BI on 97k orders from 8 Pune dark stores. Python generator + analysis + 8 tests, Power BI kit (Power Query, 50+ DAX, theme, guide), Tableau kit (calcs, LODs, story), live web dashboard on GitHub Pages.
